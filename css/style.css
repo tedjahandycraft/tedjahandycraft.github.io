@@ -9,10 +9,19 @@ body {
 
 .brand {
 	color:  #ffffff;
-	font: normal 36px 'Cookie', cursive;
+	font: normal 27px 'Cookie', cursive;
 	margin: 0;
 }
 .brand span {
+	color: #e0ac1c;
+}
+
+.lead {
+	color:  #ffffff;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+.lead span {
 	color: #e0ac1c;
 }
 
@@ -32,7 +41,7 @@ body {
 
 .bannerprod {
     height: 80vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/bannerprod.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/bannerprod.webp');
     background-size: cover;
     background-position: center;
 }
