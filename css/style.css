@@ -41,7 +41,7 @@ body {
 
 .bannerprod {
     height: 80vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/bannerprod.webp');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/bannerprod.jpg');
     background-size: cover;
     background-position: center;
 }
