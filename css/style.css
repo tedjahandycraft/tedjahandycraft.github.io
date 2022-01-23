@@ -7,8 +7,13 @@ body {
     color: rgb(117, 158, 209) !important;
 }
 
-.brand .span {
-	color:  #e0ac1c;
+.brand {
+	color:  #ffffff;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+.brand span {
+	color: #e0ac1c;
 }
 
 .container-fluid .container .h1 {
